@@ -1,0 +1,98 @@
+mkdir vm1
+cd vm1
+vagrant status
+mkdir chef
+cd chef
+vagrant init ubuntu\trusty64
+gem install knife-solo
+vagrant destroy
+mkdir vagrant_multi_edureka
+cd vagrant_multi_edureka
+mkdir vbox
+cd vbox
+mkdir vagrant_multi
+cd vagrant_multi
+vagrant box add nrel/CentOS-6.5-x86_64
+mkdir demo vagrant
+cd demo vagrant
+mkdir d1
+cd d1
+vagrant init precise64 http://files.vagrantup.com/precise64.box
+mkdir a
+cd a
+mkdir visual
+cd visual
+mkdir demo
+mkdir cd
+cd cd
+ls/var/www
+ls /var/www
+mkdir program
+cd program
+vagrant init
+vagrant box add chef/centos-6.5
+mkdir demo1
+cd demo1
+mkdir tes1
+cd test1
+mkdir master
+cd master
+mkdir vb
+cd vb
+mkdir hello
+cd hello
+mkdir vdemo
+cd vdemo
+$PSVersionTable
+PSversionTable
+mkdir hello1
+cd hello1
+mkdir worst
+cd worst
+c:worst
+mkdir as
+cd as
+vagrant reload
+mkdir funny
+cd funny
+mkdir luck
+cd luck
+mkdir one
+cd one
+code 1
+vagrant init ubuntu/trusty64
+vagrant init nrel/CentOS-6.5-x86_64
+mkdir beno
+cd beno
+vagrant init bento/ubuntu-18.04
+vagrant -v
+vagrant init Microsoft/EdgeOnWindows10 \
+  --box-version 1.0--box-version 1.0
+mkdir sample
+vagrant init mwrock/Windows8.1-amd64 \ --box-version 0.1.0
+cd sample
+mkdir h
+cd h
+vagrant init hashicorp/precise64
+mkdir server
+cd server
+mkdir dhcp
+cd dhcp
+ vagrant init bento/ubuntu-16.04
+mkdir domain
+cd domain
+vagrant init mfellows/windows2012r2
+vagrant box list
+mkdir settings
+cd settings
+vagrant init bento/ubuntu-16.04
+vagrant ssh
+vagrant reload --provision
+cd ..
+mkdir application server
+mkdir static
+cd static
+code ,
+code .
+vagrant init centos/7
+vagrant up
